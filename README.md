@@ -1,2 +1,2 @@
-<h3>take layout from figma</h3>
+<h3 align="center">layout taken from figma</h3>
 
